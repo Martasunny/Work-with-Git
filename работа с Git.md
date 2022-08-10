@@ -13,3 +13,6 @@ git log - показать журнал
 git checkout master - выйти в главную ветку 
 
 git commit -m “[descriptive message]” - создать новый commit
+
+git config --global user.name “[firstname lastname]” - установить имя пользователя
+
