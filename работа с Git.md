@@ -18,3 +18,4 @@ git config --global user.name “[firstname lastname]” - установить 
 
 git config --global user.email "[email]" - установить адрес электронной почты пользователя
 
+git diff - показывает текущие изменения
