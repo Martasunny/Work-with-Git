@@ -16,3 +16,5 @@ git commit -m “[descriptive message]” - создать новый commit
 
 git config --global user.name “[firstname lastname]” - установить имя пользователя
 
+git config --global user.email "[email]" - установить адрес электронной почты пользователя
+
