@@ -10,4 +10,6 @@ git add .\имяфайла - добавить файл
 
 git log - показать журнал 
 
-git chekout master - выйти в главную ветку 
+git checkout master - выйти в главную ветку 
+
+git commit -m “[descriptive message]” - создать новый commit
